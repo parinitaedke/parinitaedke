@@ -1,9 +1,9 @@
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/parinitaedke/parinitaedke">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parinitaedke&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/parinitaedke/parinitaedke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitaedke&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 

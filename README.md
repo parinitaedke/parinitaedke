@@ -1,3 +1,6 @@
+### Hi there 👋
+
+Welcome to my github :octocat:
 
 
 <a href="https://github.com/parinitaedke/parinitaedke">

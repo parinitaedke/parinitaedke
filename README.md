@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 Welcome to my github :octocat:
 
@@ -9,8 +9,25 @@ Welcome to my github :octocat:
 <a href="https://github.com/parinitaedke/parinitaedke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parinitaedke&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
+-->
 
+```Python
+class Programmer:
+    name = 'Parinita Edke'
+    pronouns = 'She/Her'
+    current_lab = 'Goldenberg Lab @ SickKids'
+    interests = [
+                    'Machine Learning',
+                    'Research in medical imaging',
+                    'Hiking',
+                    'Petting all the cats I can find'
+                ]
 
+    def goalsFor2022(self):
+        PublishAPaper()
+        RoadtripInTheSummer()
+        BuildMuscleAndStrength()
+```
 
 <!--
 ### Hi there 👋

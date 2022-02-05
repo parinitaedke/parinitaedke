@@ -20,3 +20,4 @@ class UndergraduateStudent:
         RoadTripInTheSummer()
         BuildMuscleAndStrength()
 ```
+Here's a link to my updated CV: [PEdke_current_CV](https://docs.google.com/document/d/1P-RFhrlyp4y5OwWaaPz8v2ZP7Cor_Y06-6V1g89OgWo/edit?usp=sharing)

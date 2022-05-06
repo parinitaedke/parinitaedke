@@ -5,7 +5,6 @@ Welcome to my github :octocat:
 ```Python
 class UndergraduateStudent:
     name = 'Parinita Edke'
-    pronouns = 'She/Her'
     current_lab = 'Goldenberg Lab @ SickKids'
     interests = [
                     'Machine Learning',

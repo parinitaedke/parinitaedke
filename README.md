@@ -3,7 +3,7 @@
 Welcome to my github :octocat:
 
 ```Python
-class UndergraduateStudent:
+class GraduateStudent:
     name = 'Parinita Edke'
     current_lab = 'Goldenberg Lab @ SickKids'
     interests = [

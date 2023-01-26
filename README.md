@@ -8,13 +8,13 @@ class GraduateStudent:
     current_lab = 'Goldenberg Lab @ SickKids'
     interests = [
                     'Machine Learning',
-                    'Research in Medical Imaging',
+                    'Research in Medical Imaging & Time Series',
                     'Hiking' 🏞️,
                     'Exploring new food spots' 😋🍽️,
                     'Petting all the cats I can find' 🐱
                 ]
 
-    def goalsFor2022(self):
+    def goalsFor2023(self):
         PublishAPaper()
         RoadTripInTheSummer()
         BuildMuscleAndStrength()

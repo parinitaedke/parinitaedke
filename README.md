@@ -5,7 +5,7 @@ Welcome to my github :octocat:
 ```Python
 class GraduateStudent:
     name = 'Parinita Edke'
-    current_lab = 'Goldenberg Lab @ SickKids'
+    current_lab = 'Goldenberg Lab @ UofT'
     interests = [
                     'Machine Learning',
                     'Research in Medical Imaging & Time Series',

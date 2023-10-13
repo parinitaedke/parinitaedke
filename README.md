@@ -9,7 +9,7 @@ class GraduateStudent:
     interests = [
                     'Machine Learning',
                     'Research in Medical Imaging & Time Series',
-                    'Hiking' 🏞️,
+                    'Weight lifting',
                     'Exploring new food spots' 😋🍽️,
                     'Petting all the cats I can find' 🐱
                 ]

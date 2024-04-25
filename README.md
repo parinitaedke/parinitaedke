@@ -1,22 +1,15 @@
-### Hi there 👋
+### 👋 Hi there! I'm Parinita, a dedicated machine learning enthusiast with a strong passion for solving real-world challenges.
 
-Welcome to my github :octocat:
+Welcome to my github :octocat: A bit about me:
 
-```Python
-class GraduateStudent:
-    name = 'Parinita Edke'
-    current_lab = 'Goldenberg Lab @ UofT'
-    interests = [
-                    'Machine Learning',
-                    'Research in Medical Imaging & Time Series',
-                    'Weight lifting',
-                    'Exploring new food spots' 😋🍽️,
-                    'Petting all the cats I can find' 🐱
-                ]
+🔍 Passionate about applying machine learning to real-world problems, particularly within the healthcare domain. Former ML Researcher at the University of Toronto, collaborating closely with Dr. Anna Goldenberg to explore innovative ML applications in healthcare. 
 
-    def goalsFor2023(self):
-        PublishAPaper()
-        RoadTripInTheSummer()
-        BuildMuscleAndStrength()
-```
-Here's a link to my updated CV: <a href="https://docs.google.com/document/d/1P-RFhrlyp4y5OwWaaPz8v2ZP7Cor_Y06-6V1g89OgWo/edit?usp=sharing" target="_blank">PEdke_CV</a>
+🎓 MSc in Computer Science from the University of Toronto, where I honed my skills in machine learning, data analysis, statistical modeling, and algorithm development.
+
+💡 Continuously seeking opportunities to expand my knowledge and skill set, embracing challenges as avenues for personal and professional growth.
+
+🚀 Actively exploring full-time positions in machine learning, eager to contribute my expertise to cutting-edge projects and collaborate with like-minded professionals. Open to connecting with individuals who share a passion for leveraging ML to make a meaningful impact.
+
+Let's connect and discuss how we can drive innovation together!
+
+Here's a link to my updated CV: <a href="https://drive.google.com/file/d/1ScmHZP_8T8n6XUdHr6rXaEquFzVJjYNH/view?usp=share_link" target="_blank">PEdke_CV</a>
